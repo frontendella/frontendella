@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=frontendella.frontendella)
-[![Github](https://img.shields.io/github/followers/frontendella?label=Follow&style=social)](https://github.com/frontendella)
-
