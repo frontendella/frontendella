@@ -11,7 +11,7 @@
 <a href="https://code.visualstudio.com/"  target="_blank">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" alt="VS Code"  height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://dev.w3.org/html5/spec-LC/"  target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
-<a href="hhttps://www.w3schools.com/css/"  target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 <a href="https://reactjs.org/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></a>
 <a href="https://git-scm.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
@@ -19,6 +19,7 @@
 <a href="https://github.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
 <a href="https://git-scm.com/" target="_blank"><img height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/></a>
+<br />
 <a href="https://expressjs.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/></a>
 <a href="https://www.linux.org/" target="_blank">
             <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -30,7 +31,7 @@
 <a href="https://webpack.js.org/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/></a>
 <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></a>
-<a href="" target="_blank"><img height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"/></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"/></a>
 </p>
 
 <!--
