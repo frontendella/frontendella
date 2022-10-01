@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendella"&theme=graywhite />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendella&theme=graywhite&layout=compact" />
+ <img align="right class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendella&theme=graywhite&layout=compact" />
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=frontendella&show_icons=true&theme=graywhite" />
 </div>
 
