@@ -25,7 +25,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontendella&theme=graywhite)
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendella&theme=graywhite&layout=compact" />
+  
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendella&show_icons=true&theme=graywhite)
+
 
