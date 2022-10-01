@@ -4,7 +4,7 @@
 <br />
 
 ## 🧰 Languages and Tools:
-<br/>
+<br/><br />
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"/></a>
@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br /> <br />
 <div style="display: flex; flex-direction: column;">
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendella"&theme=graywhite />
- <br/>
+ <br/><br /><br />
  <img align="right class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendella&theme=graywhite&layout=compact" />
- <br/>
+ <br/><br /><br />
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=frontendella&show_icons=true&theme=graywhite" />
 </div>
 
