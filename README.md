@@ -18,8 +18,8 @@
 <a href="https://babeljs.io/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-plain.svg"/></a>
 <a href="https://github.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
 <a href="https://git-scm.com/" target="_blank"><img height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/></a>
 <br />
+<a href="https://getbootstrap.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/></a>
 <a href="https://expressjs.com/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/></a>
 <a href="https://www.linux.org/" target="_blank">
             <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
