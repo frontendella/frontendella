@@ -1,6 +1,4 @@
 ### Hi there 👋🏻
-
-
 <br />
 
 ## 🧰 Languages and Tools:
