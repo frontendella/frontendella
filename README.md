@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-<br /> 
+<br />
 
 ## 🧰 Languages and Tools:
 <br/> 
