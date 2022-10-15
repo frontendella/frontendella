@@ -2,7 +2,7 @@
 <br />
 
 ## 🧰 Languages and Tools:
-<br/>  
+<br/>
 <p align="center">  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"/></a>
