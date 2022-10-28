@@ -50,11 +50,17 @@ Here are some ideas to get you started:
 -->
 <br /> <br />
 <div style="display: flex; flex-direction: column;">
+            <a href="https://github.com/frontendella">
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendella"&theme=graywhite />
+            </a>
  <br/><br /><br />
+            <a href="https://github.com/frontendella">
  <img align="right class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendella&theme=graywhite&layout=compact" />
+             </a>
  <br/><br /><br />
+            <a href="https://github.com/frontendella">               
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=frontendella&show_icons=true&theme=graywhite" />
+            </a>
 </div> 
 
 
