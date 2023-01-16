@@ -59,7 +59,8 @@ Here are some ideas to get you started:
              </a>
  <br/><br /><br />
             <a href="https://github.com/frontendella">               
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=frontendella&show_icons=true&theme=graywhite" />
+ <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=frontendella&show_icons=true&theme=graywhite" />
+
             </a>
 </div> 
 
